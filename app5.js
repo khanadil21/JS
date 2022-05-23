@@ -100,7 +100,7 @@ alert("nummber is "+ $num + "\n"
 
 //task 11
 var currentYear = 2022;
-var birthyear = prompt("whats your birth year","1999");
+var birthyear = prompt("whats your birth year","2000");
 var  yourAge= currentYear-birthyear;
 alert("your current age is "+ yourAge);
 
