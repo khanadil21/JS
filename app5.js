@@ -44,7 +44,7 @@ alert("the price of 5 ticket is "+ ticket*5 + "PKR");
 //task 5
 console.log("table of four");
 for(var i=0; i<=10; i++){
-    console.log("4 x "+ i + " = "+ 4*i);
+    document.write("4 x "+ i + " = "+ 4*i);
 }
 
 
