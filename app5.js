@@ -43,8 +43,8 @@ alert("the price of 5 ticket is "+ ticket*5 + "PKR");
 
 //task 5
 console.log("table of four");
-for(var i=0; i<=10; i++){
-    console.log("4 x "+ i + " = "+ 4*i);
+for(let i=0; i<=10; i++){
+    document.write("<br\>" +"4 x "+ i + " = "+ 4*i);
 }
 
 
@@ -100,7 +100,7 @@ alert("nummber is "+ $num + "\n"
 
 //task 11
 var currentYear = 2022;
-var birthyear = prompt("whats your birth year","1999");
+var birthyear = prompt("whats your birth year","2000");
 var  yourAge= currentYear-birthyear;
 alert("your current age is "+ yourAge);
 
