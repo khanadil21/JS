@@ -1,7 +1,3 @@
-//IF...ELSE & ELSE IF STATEMENT, TESTING SET OF CONDITIONS
-//https://drive.google.com/file/d/10i5GD8pjjFAVEr1_loZLQglcl_a1ZxGJ/view
-
-
 alert("WELCOME TO TASK 1");//task 1
 var input = prompt("insert any character or number");
 // convert into ASCII value

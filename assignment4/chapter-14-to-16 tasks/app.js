@@ -1,6 +1,3 @@
-//arrays
-//https://drive.google.com/file/d/1925ZOBDlLSFkkWOfCwvVwhw52sz48KgU/view
-
 console.log("------------ WELCOME TO TASK 1 ------------" );//task1
 var arr1 = [];
 console.log(arr1);
